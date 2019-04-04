@@ -1,0 +1,5 @@
+Could not get my make files to work at first, needed to install xcode developer from the app store
+* needed to ensure the correct path for the xcode app 
+
+https\://stackoverflow.com/questions/17980759/xcode-select-active-developer-directory-error/17980786\#17980786
+
